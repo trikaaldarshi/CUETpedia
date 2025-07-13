@@ -7,7 +7,7 @@ import {
   // Social media icons - Corrected imports for Telegram and Whatsapp
   Send, Instagram // Removed X as TwitterX as it's no longer needed for the X icon
 } from 'lucide-react';
-
+import App from './App.jsx'
 const App = () => {
   const [activeSection, setActiveSection] = useState('home');
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
