@@ -868,7 +868,7 @@ const App = () => {
             >
               Sachin Shukla
             </a>
-            <span>&</span>
+            <span> & </span>
             <a
               href="https://www.aakanksha.me/"
               target="_blank"
