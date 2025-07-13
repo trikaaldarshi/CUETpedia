@@ -866,7 +866,7 @@ const App = () => {
               rel="noopener noreferrer"
               className="font-delius-swash-caps text-blue-700 hover:text-blue-900 transition-colors duration-300"
             >
-              Sachin Shukla
+              Sachin Shukla & Aakanksha
             </a>
           </p>
         </div>
