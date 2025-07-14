@@ -461,7 +461,7 @@ const App = () => {
           <div className="p-6 md:p-8 rounded-3xl shadow-xl" style={glassEffectStyle}>
             <p className="mb-4 text-gray-800 text-base md:text-lg"><strong>Email:</strong> support@cuetpedia.com</p>
             <p className="mb-4 text-gray-800 text-base md:text-lg"><strong>Phone:</strong> +91-1234567890</p>
-            <p className="mb-6 text-gray-800 text-base md:text-lg"><strong>Address:</strong> CUETpedia Headquarters, Knowledge City, New Delhi, India</p>
+            <p className="mb-6 text-gray-800 text-base md:text-lg"><strong>Address:</strong> CUETpedia India</p>
             <p className="mt-4 text-gray-700 text-base md:text-lg">You can also fill out the form below and we will get back to you shortly.</p>
             <form className="mt-6 space-y-6">
               <div>
@@ -555,7 +555,7 @@ const App = () => {
             You have the right to access, correct, or delete your personal information. Please contact us to exercise these rights.
           </p>
           <p className="mt-8 text-sm md:text-base text-gray-600">
-            This Privacy Policy is effective as of July 9, 2025, and will be updated periodically.
+            This Privacy Policy is effective as of March 2, 2025, and will be updated periodically.
           </p>
         </>
       ),
