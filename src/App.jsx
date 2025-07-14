@@ -752,7 +752,7 @@ const App = () => {
 
           {/* Mobile Menu Button - Smaller size */}
           <div className="md:hidden">
-            <button onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)} className="text-white focus:outline-none p-1.5 rounded-md hover:bg-white hover:bg-opacity-75 transition-colors duration-200">
+            <button onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)} className="text-white focus:outline-none p-1.5 rounded-md hover:bg-black hover:bg-opacity-90 transition-colors duration-200">
               {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />} {/* Adjusted size */}
             </button>
           </div>
